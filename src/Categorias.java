@@ -1,5 +1,5 @@
 import java.util.Scanner; // chatice do java
-public class categorias {
+public class Categorias {
     
     public static void main(String[] args) {
         System.out.println("Olá! Seja bem vindo!"); // saída padrão!
