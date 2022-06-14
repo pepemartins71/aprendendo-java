@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class maiorMenor {
+public class MaiorMenor {
     
 
   public static void main(String[] args) {

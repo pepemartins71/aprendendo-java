@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class questaoSegTranscorrido {
+public class QuestaoSegTranscorrido {
     
 
   public static void main(String[] args){

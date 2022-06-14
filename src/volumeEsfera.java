@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class volumeEsfera {
+public class VolumeEsfera {
     
   static Scanner leitor = new Scanner(System.in);
 

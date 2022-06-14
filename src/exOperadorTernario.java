@@ -1,8 +1,5 @@
 import java.util.Scanner; // chatice do java
-public class exOperadorTernario {
-    
-
-
+public class ExOperadorTernario {
 
     public static void main(String[] args) {
         Scanner texto = new Scanner(System.in);// obs dentrada

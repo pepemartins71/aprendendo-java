@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class difHorarios {
+public class DifHorarios {
     
 
   public static void main(String[] args){

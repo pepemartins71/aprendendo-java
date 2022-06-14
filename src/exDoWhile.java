@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exDoWhile {
+public class ExDoWhile{
     
   static Scanner leitor = new Scanner(System.in);
 
