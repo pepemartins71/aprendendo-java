@@ -1,5 +1,5 @@
 import java.util.Scanner; // chatice do java
-public class dataAniversario {
+public class DataAniversario {
    
 
 
